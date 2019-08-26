@@ -10,7 +10,7 @@
 			// 	echo "ALLOWED";
 			// }
 		}
-		
+
 		public function index(){
 			$this->load->view("files/login");
 		}
